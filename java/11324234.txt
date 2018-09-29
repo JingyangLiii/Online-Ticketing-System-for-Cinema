@@ -1,0 +1,12 @@
+Ticket ID: 11324234
+
+File name: BEAUTY AND THE BEAST
+
+Number of hall: 1
+
+Type of ticket: Student
+
+Time: 12:00
+
+Number of seat: A2
+

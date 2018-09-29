@@ -1,0 +1,45 @@
+20170603
+
+TICKETS SUMMARY
+
+All tickets sold: 11
+
+TICKETS SORT BY SCREEN(ALL 3 SCREENS)
+
+Screen 1: 3 tickets
+Screen 2: 8 tickets
+Screen 3: 0 tickets
+
+TICKETS SORT BY SCHEDULE(ALL 15 MOVIES)
+
+BEAUTY AND THE BEAST at 10:00 tickets sold : 0
+BEAUTY AND THE BEAST at 12:00 tickets sold : 3
+KONG:SKULL ISLAND at 15:30 tickets sold : 0
+KONG:SKULL ISLAND at 18:30 tickets sold : 0
+KONG:SKULL ISLAND at 21:00 tickets sold : 0
+LA LA LAND at 10:30 tickets sold : 4
+LA LA LAND at 13:00 tickets sold : 0
+MOONLIGHT at 16:00 tickets sold : 0
+MOONLIGHT at 18:00 tickets sold : 4
+KONG:SKULL ISLAND at 21:00 tickets sold : 0
+BEAUTY AND THE BEAST at 10:30 tickets sold : 0
+BEAUTY AND THE BEAST at 13:00 tickets sold : 0
+LOGAN at 15:30 tickets sold : 0
+LOGAN at 18:00 tickets sold : 0
+KONG:SKULL ISLAND at 20:30 tickets sold : 0
+
+TICKETS SORT BY TYPE(ALL 4 TYPES)
+
+Child tickets sold :0
+Adult tickets sold :4
+Senior tickets sold :0
+Student tickets sold :7
+
+TICKETS SORT BY MOVIE(ALL 5 MOVIES)
+
+BEAUTY AND THE BEAST tickets sold : 3
+KONG:SKULL ISLAND tickets sold : 0
+LA LA LAND tickets sold : 4
+MOONLIGHT tickets sold : 4
+LOGAN tickets sold : 0
+

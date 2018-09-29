@@ -1,0 +1,12 @@
+Ticket ID: 24114214
+
+File name: MOONLIGHT
+
+Number of hall: 2
+
+Type of ticket: Student
+
+Time: 18:00
+
+Number of seat: B5
+
